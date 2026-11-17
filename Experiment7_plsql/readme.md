@@ -1,6 +1,6 @@
-**Expected Output:**  # Experiment 7: PL/SQL – Variables, Control Structures and Loops
+# Experiment 7: PL/SQL – Variables, Control Structures and Loops
 ## Name: Manikandan M
-## Reg.no:212224040184
+## Reg.n0:212224040184
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
@@ -189,22 +189,3 @@ END;
 ## RESULT
 Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
 
-
-n = 1535  
-Reversed number is 5351
-
----
-
-## 5. Write a PL/SQL program to find the largest of three numbers
-
-### Steps:
-- Declare three numeric variables `a`, `b`, and `c`.
-- Use nested `IF-ELSIF-ELSE` conditions to find the largest among the three.
-- Display the largest number.
-
-**Expected Output:**  
-a = 10, b = 9, c = 15  
-Largest of three number is 15
-
-## RESULT
-Thus, the PL/SQL programs using variables, conditionals, and loops were executed successfully.
