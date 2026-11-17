@@ -1,6 +1,6 @@
 **Expected Output:**  # Experiment 7: PL/SQL – Variables, Control Structures and Loops
 ## Name: Manikandan M
-## Reg.n0:212224040184
+## Reg.no:212224040184
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
